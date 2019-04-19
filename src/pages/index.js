@@ -10,10 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`scrupulous`]} />
     <div id="main">
       <h1>Custom Software</h1>
-      <p>
-        Scrupulous is a full service software development shop that provides
-        consulting from design to deployment of custom web applications.
-      </p>
+      <p>Scrupulous builds web applications for businesses.</p>
       <a href="mailto:dan@scrupulous.co?Subject=Hello!" class="contact-us">
         Contact Us
       </a>

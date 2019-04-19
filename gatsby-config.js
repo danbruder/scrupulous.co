@@ -36,5 +36,6 @@ module.exports = {
         fonts: [`heebo\:400,900`],
       },
     },
+    `gatsby-plugin-favicon`,
   ],
 }
